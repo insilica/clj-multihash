@@ -1,14 +1,9 @@
 clj-multihash
 =============
 
-[![Circle CI](https://img.shields.io/circleci/project/github/multiformats/clj-multihash.svg?style=flat-square)](https://circleci.com/gh/multiformats/clj-multihash)
-[![codecov.io](https://img.shields.io/codecov/c/github/multiformats/clj-multihash.svg?style=flat-square&branch=develop)](https://codecov.io/github/multiformats/clj-multihash?branch=develop)
+[![Clojars Project](https://img.shields.io/clojars/v/co.insilica/clj-multihash.svg)](https://clojars.org/co.insilica/clj-multihash)
 [![API codox](https://img.shields.io/badge/doc-API-blue.svg)](https://multiformats.github.io/clj-multihash/api/multihash.core.html)
 [![marginalia docs](https://img.shields.io/badge/doc-marginalia-blue.png)](https://multiformats.github.io/clj-multihash/marginalia/uberdoc.html)
-
-[![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](https://webchat.freenode.net/?channels=%23ipfs)
-[![](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![](https://img.shields.io/badge/project-multiformats-blue.svg?style=flat-square)](https://github.com/multiformats/multiformats)
 
 > Clojure implementation of the Multihash spec
 
@@ -18,19 +13,11 @@ extensible, efficient binary representation for cryptographic hashes.
 
 ## Table of Contents
 
-- [Install](#install)
 - [Usage](#usage)
   - [Serialization](#serialization)
 - [Maintainers](#maintainers)
 - [Contribute](#contribute)
 - [License](#license)
-
-## Install
-
-Library releases are published on Clojars. To use the latest version with
-Leiningen, add the following dependency to your project definition:
-
-[![Clojars Project](https://clojars.org/mvxcvi/multihash/latest-version.svg)](https://clojars.org/mvxcvi/multihash)
 
 ## Usage
 
