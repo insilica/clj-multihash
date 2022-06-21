@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <name>clj-multihash</name>
+  <description>Clojure implementation of the Multihash spec</description>
+  <url>https://github.com/insilica/clj-multihash</url>
+  <licenses>
+    <license>
+      <name>Unlicense</name>
+      <url>https://raw.githubusercontent.com/insilica/clj-multihash/master/LICENSE</url>
+    </license>
+  </licenses>
+  <scm>
+    <url>https://github.com/insilica/clj-multihash</url>
+    <connection>scm:git:git://github.com/insilica/clj-multihash.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/insilica/clj-multihash.git</developerConnection>
+  </scm>
+</project>

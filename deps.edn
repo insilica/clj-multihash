@@ -1,1 +1,5 @@
-{:deps {mvxcvi/alphabase {:mvn/version "2.1.0"}}}
+{:deps {mvxcvi/alphabase {:mvn/version "2.1.0"}}
+ :aliases
+ {:build {:deps {io.github.seancorfield/build-clj
+                 {:git/tag "v0.8.0" :git/sha "9bd8b8a"}}
+          :ns-default build}}}

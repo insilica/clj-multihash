@@ -1,12 +1,11 @@
 .calva/
 .clj-kondo/
+.cpcache/
 .direnv/
 .lsp/
 /target/
 /checkouts/
 /.lein-*
 /.nrepl-port
-pom.xml
-pom.xml.asc
 *.jar
 *.class
